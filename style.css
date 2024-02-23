@@ -1,0 +1,139 @@
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.headear-alignment {
+    display: flex;
+    justify-content: space-evenly;
+    /* background-color: lightgray; */
+    align-items: baseline;
+}
+
+nav {
+
+}
+
+.contanier {
+    display: flex;
+    /* width: 100%; */
+    align-items: baseline;
+    justify-content: space-around;
+
+
+
+}
+
+.logo-alignment {
+    /* margin-top: 20px; */
+
+}
+
+.logo-alignment>img {
+    width: 160px;
+    margin-top: px;
+}
+
+
+.nav-bar-list {
+    display: flex;
+    /* gap: 20px; */
+
+    
+}
+
+
+.nav-bar-list>ul {
+    gap: 20px;
+    display: flex;
+    
+}
+
+.nav-bar-list>ul>li {
+    list-style-type: none;
+    
+
+}
+
+.nav-bar-list>ul>li>a {
+    text-decoration: none;
+    color: #0d6db7;
+}
+
+
+.nav-bar-list>ul>li>a:hover {
+
+    text-decoration: underline 3px #8dc63f ;
+}
+
+.btn-contanier>button {
+    padding: 0.3em 0.3em;
+    border-radius: 5px;
+    transition: transform 0.25s;
+    background-color: #8dc63f;
+    color: white;
+
+
+ 
+}
+
+
+    
+
+.btn-contanier>button:hover {
+    transform: scale(1.4, 1.4);
+    
+
+
+
+
+    
+}
+
+.Donate-btn {
+    /* font-size: 16px; */
+    background-color: #0d6db7;
+
+
+}
+
+.sponesor-btn {
+    background-color: #8dc63f;
+}
+
+.saylani-section {
+    /* display: flex; */
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: #cfcdcd; */
+    align-items: center;
+
+}
+
+ 
+.saylani-section-img>img {
+    width: ;
+}
+
+
+.SALYANI {
+    color: #8dc63f;
+}
+
+.SMIT {
+    color: #0d6db7;
+
+}
+
+ 
+.social-media {
+
+}
+
+
+.col

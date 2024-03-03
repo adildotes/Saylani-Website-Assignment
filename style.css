@@ -152,3 +152,21 @@ nav {
         display: block !important;
     }
 }
+@media screen and (min-width:320px) {
+    /* .nav-bar-list ul {
+        display: flex !important; */
+    
+        
+    }
+
+    /* .btn-box {
+        display: flex !important;
+    } */
+
+    .banner-img {
+        display: block !important;
+    }
+
+    .navbar-brand {
+        /* display: flex !important; */
+    }

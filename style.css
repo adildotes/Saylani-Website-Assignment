@@ -3,6 +3,8 @@
     font-size: 12px;
 }
 
+
+
 .btn-box {
     display: none !important;
     gap: 1rem;
@@ -151,22 +153,17 @@ nav {
     .banner-img {
         display: block !important;
     }
+    .menu {
+        display: none;
+    }
 }
 @media screen and (min-width:320px) {
-    /* .nav-bar-list ul {
-        display: flex !important; */
-    
-        
-    }
-
-    /* .btn-box {
-        display: flex !important;
-    } */
-
     .banner-img {
         display: block !important;
     }
-
-    .navbar-brand {
-        /* display: flex !important; */
+      
     }
+
+
+
+  
